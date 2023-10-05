@@ -21,7 +21,7 @@ const gravitiy= 9.8
 // useCamelCaseInJavascript 
 
 const javascript = 'JavaScript'
-console.log('I enjoy programming in' + javascript +)
+console.log('I enjoy programming in' + javascript )
 
 let hello='Hello'
 let world='World'
